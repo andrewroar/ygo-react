@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ygo-react/static/css/main.257b5b30.chunk.css",
+    "main.js": "/ygo-react/static/js/main.df2cf9ae.chunk.js",
+    "main.js.map": "/ygo-react/static/js/main.df2cf9ae.chunk.js.map",
+    "runtime-main.js": "/ygo-react/static/js/runtime-main.ad3d85b7.js",
+    "runtime-main.js.map": "/ygo-react/static/js/runtime-main.ad3d85b7.js.map",
+    "static/css/2.cd846464.chunk.css": "/ygo-react/static/css/2.cd846464.chunk.css",
+    "static/js/2.c5db9773.chunk.js": "/ygo-react/static/js/2.c5db9773.chunk.js",
+    "static/js/2.c5db9773.chunk.js.map": "/ygo-react/static/js/2.c5db9773.chunk.js.map",
+    "index.html": "/ygo-react/index.html",
+    "precache-manifest.1486ed118723303bdce0bf3250ddb81b.js": "/ygo-react/precache-manifest.1486ed118723303bdce0bf3250ddb81b.js",
+    "service-worker.js": "/ygo-react/service-worker.js",
+    "static/css/2.cd846464.chunk.css.map": "/ygo-react/static/css/2.cd846464.chunk.css.map",
+    "static/css/main.257b5b30.chunk.css.map": "/ygo-react/static/css/main.257b5b30.chunk.css.map",
+    "static/js/2.c5db9773.chunk.js.LICENSE.txt": "/ygo-react/static/js/2.c5db9773.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad3d85b7.js",
+    "static/css/2.cd846464.chunk.css",
+    "static/js/2.c5db9773.chunk.js",
+    "static/css/main.257b5b30.chunk.css",
+    "static/js/main.df2cf9ae.chunk.js"
+  ]
+}
